@@ -18,6 +18,8 @@ public class map3 {
         map.put(s3,"哔哩哔哩");
         map.put(s4,"哔哩哔哩");
 
+//        Set<Map.Entry<Student, String>> entrySet = map.entrySet();
+
         Set<Map.Entry<Student, String>> entrySet = map.entrySet();
 
         for(Map.Entry entry:entrySet){
