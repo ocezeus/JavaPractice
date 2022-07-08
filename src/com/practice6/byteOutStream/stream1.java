@@ -1,6 +1,5 @@
-package com.practice6.byteStream;
+package com.practice6.byteOutStream;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
